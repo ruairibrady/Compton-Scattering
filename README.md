@@ -23,7 +23,7 @@ In this section the rest mass energy of the electron was compared against its ki
 <img SRC="Outputs/output4.png" width= "400">  
 </p>
 ### Section 5 - The relativistic rest mass energy of the electron as a function of its kinetic energy
-In this section the rest mass energy of the electron against its kinetic energy using a relativistically derived approach. As was expected in Section 4 a straight line graph is now observed in the plot below proving that the electrons rest mass energy is constant.  A [detailed analysis](https://github.com/ruairibrady/Compton-Scattering/blob/master/Outputs/output5.1.PNG) of this line provides an experimental value for the rest mass energy of the electron. The source code and data file used to produce this can be found in [Directory 5](https://github.com/ruairibrady/Compton-Scattering/tree/master/5.%20Electron%20Rel%20RME%20vs%20Kinetic%20Energy/).
+In this section the rest mass energy of the electron against its kinetic energy using a relativistically derived approach. As was expected in Section 4 a straight line graph is now observed in the plot below proving that the electrons rest mass energy is constant.  A [detailed analysis](https://github.com/ruairibrady/Compton-Scattering/blob/master/Outputs/output5.1.PNG/) of this line provides an experimental value for the rest mass energy of the electron. The source code and data file used to produce this can be found in [Directory 5](https://github.com/ruairibrady/Compton-Scattering/tree/master/5.%20Electron%20Rel%20RME%20vs%20Kinetic%20Energy/).
 <p align="center">
 <img SRC="Outputs/output5.png" width= "400">  
 </p>
