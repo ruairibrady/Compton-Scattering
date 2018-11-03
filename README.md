@@ -9,7 +9,13 @@ In this section the variation in energy of the scattered gamma rays with respect
 </p>
 
 ### Section 2 - Differential scattering cross-section for the Compton interaction at a given angle
-In this section the differential cross-section for Compton scattering is assessed. The plot shown below represents the probability of an incoming photon being Compton scattered at a particular angle. The theoretical prediction using the Klein-Nishina formula is plotted in red whilst the experimental results are plotted in blue. The source code and data file used to produce this can be found in [Directory 2](https://github.com/ruairibrady/Compton-Scattering/tree/master/2.%20Differential%20Cross%20Section%20vs%20Angle/)
+In this section the differential cross-section for Compton scattering is assessed. The plot shown below represents the probability of an incoming photon being Compton scattered at a particular angle. The theoretical prediction using the Klein-Nishina formula is plotted in red whilst the experimental results are plotted in blue. The source code and data file used to produce this can be found in [Directory 2](https://github.com/ruairibrady/Compton-Scattering/tree/master/2.%20Differential%20Cross%20Section%20vs%20Angle/).
 <p align="center">
 <img SRC="Outputs/output2.png" width= "400">  
+</p>
+
+### Section 3 - The electron kinetic energy as a function of the scattered 𝜸 ray energy 
+In this section the recoiling electron’s kinetic energy was measured as a function of the energy associated with the Compton scattered gamma ray. An experimental value for the [rest mass energy](https://github.com/ruairibrady/Compton-Scattering/blob/master/Outputs/output3.1.PNG/) of the electron was determined. Along with this, the plot shown below was produced detailing the quadratic relationship between the two variables. The source code and data file used to produce this can be found in [Directory 3](https://github.com/ruairibrady/Compton-Scattering/tree/master/3.%20Electron%20Energy%20vs%20Gamma%20Ray%20Energy/).
+<p align="center">
+<img SRC="Outputs/output3.png" width= "400">  
 </p>
