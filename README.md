@@ -33,3 +33,15 @@ In this section the rest mass energy of the electron against its kinetic energy 
 <p align="center">
 <img SRC="Outputs/output5.png" width= "400">  
 </p>
+
+### Section 6 - The energy of the electron as a function of its velocity
+In this section the variation in electron energy is analysed with respect to its velocity (as a fraction of the speed of light). Shown below is a plot of the two variables highlighting the relativistic dependence energy has on speed. At approximately 92.5% the speed of light a rapid increase in slope is seen for the curve. The source code and data file used to produce this can be found in [Directory 6](https://github.com/ruairibrady/Compton-Scattering/tree/master/6.%20Electron%20Energy%20vs%20Velocity/).
+<p align="center">
+<img SRC="Outputs/output6.png" width= "400">  
+</p>
+
+### Section 7 - The Lorentz factor of the electron as a function of its velocity
+In this section the Lorentz factor of the electron is analysed with repsect to its velocity. The Lorentz factor is a special term describing the variation in time, length and relativistic mass change of an object. The plot shows how this value changes with velocity in an increasing exponential fashion. The experimental coefficients of the Lorents formula were [calculated](https://github.com/ruairibrady/Compton-Scattering/blob/master/Outputs/output7.1.PNG/) and compared to their theoretical counterparts (a=1 and b=-1). The source code and data file used to produce this can be found in [Directory 7](https://github.com/ruairibrady/Compton-Scattering/tree/master/7.%20Lorentz%20Factor%20vs%20Velocity).
+<p align="center">
+<img SRC="Outputs/output7.png" width= "400">  
+</p>
