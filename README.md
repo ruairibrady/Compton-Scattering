@@ -9,6 +9,7 @@ In this section the variation in energy of the scattered gamma rays with respect
 </p>
 ### Section 2 - Differential scattering cross-section for the Compton interaction at a given angle
 In this section the differential cross-section for Compton scattering is assessed. The plot shown below represents the probability of an incoming photon being Compton scattered at a particular angle. The theoretical prediction using the Klein-Nishina formula is plotted in red whilst the experimental results are plotted in blue. The source code and data file used to produce this can be found in [Directory 2](https://github.com/ruairibrady/Compton-Scattering/tree/master/2.%20Differential%20Cross%20Section%20vs%20Angle/) .
+
 <p align="center">
 <img SRC="Outputs/output2.png" width= "400">  
 </p>
